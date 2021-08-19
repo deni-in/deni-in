@@ -53,6 +53,5 @@ ___
 
 ![MVC](https://img.shields.io/badge/-MVC-4a4a4a?style=for-the-badge)
 ![функциональное программирование](https://img.shields.io/badge/-функциональное--программирование-4a4a4a?style=for-the-badge)
-![БЭМ](https://img.shields.io/badge/-Бэм-4a4a4a?style=for-the-badge)
 
 ---
