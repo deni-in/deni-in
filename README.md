@@ -49,10 +49,7 @@ ___
 ![cors](https://img.shields.io/badge/-CORS-4c32a8?style=for-the-badge&logo=&logoColor=fff)
 ![concurrently](https://img.shields.io/badge/-CONCURRENTLY-5032a8?style=for-the-badge&logo=&logoColor=)
 
-###Используемая мной методология:
+### Используемая мной методология:
 
 ![MVC](https://img.shields.io/badge/-MVC-5332a8?style=for-the-badge)
 ![функциональное программирование](https://img.shields.io/badge/-функциональное--программирование-5732a8?style=for-the-badge)
-![БЭМ](https://img.shields.io/badge/-Бэм-5b32a8?style=for-the-badge)
-
----
