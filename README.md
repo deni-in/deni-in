@@ -12,6 +12,10 @@ ___
 **[код](https://github.com/deni-in/autoexpert-app)**
 **[демо](https://autoexpert-app.herokuapp.com/)**
 
+### Сольный проект School-agregator
+
+**[код](https://github.com/deni-in/school-agregator)**
+
 ___
 
 ## Научиться можно всему, нужно лишь время и желание
