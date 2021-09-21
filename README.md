@@ -16,6 +16,10 @@ ___
 
 **[код](https://github.com/deni-in/school-agregator)**
 
+### Приложение поиска репозиториев GitHub
+
+**[код](https://github.com/deni-in/github-rep-search)**
+
 ___
 
 ## Научиться можно всему, нужно лишь время и желание
