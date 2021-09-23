@@ -22,6 +22,10 @@ ___
 
 ___
 
+![CodeWars](https://www.codewars.com/users/Deni-In/badges/large)
+
+___
+
 ## Научиться можно всему, нужно лишь время и желание
 
 ### Чему я уже научился:
